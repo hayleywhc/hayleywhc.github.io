@@ -44,14 +44,13 @@ strong {
 }
 
 .btn {
-  font-weight: 300;
+  font-weight: 100;
 }
 
 .btn-primary {
   background: blue;
   border-color: #e16879;
-}
-
+}6
 .btn-primary:hover,
 .btn-primary:active,
 .btn-primary:focus,
@@ -62,11 +61,13 @@ strong {
 
 .card {
   border-color: #ccc;
+
 }
 
 .card-title {
+font-size: 40px;
   color: blue;
-  font-weight: 300;
+  font-weight: 100;
 }
 
 .card-block small {
@@ -74,15 +75,14 @@ strong {
 }
 
 .jumbotron {
-  /background-image: **url("img/background.jpg")***
+  background-image: url("img/background.jpg");
   background-size: cover;
   color: white;
+  height: 700px;
 }
 
-.title-image {
-}
-.a class{
-	/background-image:url("img/pattern.jpg")
+.background-copy {
+	background-image:url("img/pattern.jpg")
 }
 
 
